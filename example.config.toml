@@ -2,10 +2,10 @@
 # All fields are required for now
 token_size = 64
 # Telegram ID of the master account
-masterid = 777000
+masterid = 1229057875
 
 [database]
 host = "127.0.0.1"
-password = "password"
+password = "reejitxx"
 username = "SpamWatchAPI"
 name = "SpamWatchAPI"
